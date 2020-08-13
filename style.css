@@ -1,0 +1,35 @@
+.calculate{
+	
+	height:344px;
+	width:305px;
+	background-color:#e8e8e8e8;
+	margin: 0 auto;
+	margin-top:50px;
+	padding:20px;
+	border: 1px solid #777
+	
+}
+.main-bar{
+	margin-bottom:25px;
+	text-align:right;
+}
+.btn{
+	
+	font-size:20px;
+	cursor:pointer;
+	width:61px;
+}
+.line{
+	margin-bottom:10px;
+	
+}
+.last input{
+	
+	width:126px;
+}
+#inp{
+	
+	font-size:23;
+	font-weight:bold;
+	
+}
